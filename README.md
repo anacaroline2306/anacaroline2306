@@ -1,11 +1,10 @@
 ### ana caroline 👋   
-- 🌱 I’m currently learning  programacao  no  javascript  
-- 👯 I’m looking to cOLABORAR NA [PENSAMENTO CUMPUTASIONAL](https://pt.wikipedia.org/wiki/Pensamento_computacional) . 
-- 🤔 I’m looking for help with  informatic  e programaçao no p5js
+- 🌱 I am currently learning programming in javascript
+- 👯 I'm looking to COLLABORATE IN THE MATERIAL [CUMPUTASIONAL THINKING](https://pt.wikipedia.org/wiki/Pensamento_computacional) .
+- 🤔 I'm looking for help with computers and programming on p5js
 
-- 📫 How to reach me:@matozoanacaroline  ~~INSTA~~
-- 😄 Pronouns: **ela/dela**
-
+- 📫 How to contact me: @matozoanacaroline ~~INSTA~~
+- 😄 Pronouns: **she/her**
  
 ![Isso é uma imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  
